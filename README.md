@@ -35,6 +35,8 @@ Aceitamos contribuições para aprimorar este projeto. Caso tenha sugestões, co
 Clone este repositório em sua máquina local.
 Instale o Flutter SDK em sua máquina.
 Execute o comando flutter run no diretório do projeto para iniciar o aplicativo.
+
+
 📚 Documentação
 
 Para obter mais detalhes sobre como utilizar as funcionalidades deste projeto, consulte a documentação disponível no diretório 'docs'.
